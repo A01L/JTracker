@@ -1,2 +1,2 @@
 # JTracker
-JTracker - (Just Tracker) system for tracking traffic and count viewers and guests redirects to links. System can detect device and country, region, OS, browser, date.
+JTracker is a (just tracker) system for tracking traffic and counting redirects of viewers and guests to links. The system can determine the device and the country, region, operating system, browser, date.
